@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 # created on 03/12/2021
 #author : Slimane Khayi, PhD 
-# eamil :slimane.0khayi@inra.ma
+# email :slimane.khayi@inra.ma
 # this code is aiming to get fasta sequence from multifasta file using
-#the matched headers in a file and appending new infromaiton on the headers 
+#the matched headers in a file and appending new information on the headers 
 
 import os
 from Bio import SeqIO
