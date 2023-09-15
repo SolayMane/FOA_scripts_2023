@@ -20,9 +20,7 @@ samtools index "${output_prefix}_sorted.bam"
 bamtocov M13C_S2_sorted.bam -T 56 -Q 20 > essai.txt
 
 
-
-RRRRR
-
+## Under R
 library(table.data)
 
 ref <- readDNAStringSet("ref.fa")
